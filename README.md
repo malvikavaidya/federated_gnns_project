@@ -23,3 +23,9 @@ Cora:
 - matrix to show howmany nodes are overlapping (between A and C) normalized by the number of nodes from all clients 
 - degree and client distribution
 
+synchronous communication routes (A shares data with B, etc)
+train and then share data
+fine tune with data from neighbors
+have a unique story
+training clients and aggregating models 
+Compare against idealized (fully connected client and subset (read up on paper))
