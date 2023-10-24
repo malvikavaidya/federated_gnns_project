@@ -29,3 +29,10 @@ fine tune with data from neighbors
 have a unique story
 training clients and aggregating models 
 Compare against idealized (fully connected client and subset (read up on paper))
+
+Next week:
+
+- Baseline: 1,5,10 local epochs, 100 communication rounds
+    Client network is a fully connected network, same data split etc
+- 100 comm rounds, 1,5,10 epochs with our own social network
+- What we did previously (1,5,10) with 10 
